@@ -2,7 +2,7 @@
 
 
 
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=0:00ff00,50:77FF77,100:FFFFFF&height=300&section=header&text=hello&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=300&section=header&text=hello&fontSize=90" />
 
 <!--
 **BangTtagGum/BangTtagGum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
