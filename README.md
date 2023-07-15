@@ -2,7 +2,7 @@
 
 
 
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=0:5433FF,50:20BDFF,100:A5FECB&height=200&section=header&text=Welcome&fontSize=45&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=이준영의%20GitHub%20Profile&descAlign=55&descSize=15&descAlignY=50" />
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=0:3AA6B9,33:FFD0D0,66:FF9EAA,100:C1ECE4&height=200&section=header&text=Welcome&fontSize=45&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=이준영의%20GitHub%20Profile&descAlign=55&descSize=15&descAlignY=50" />
 
 ### 안녕하세요 이준영입니다 🙌
 <!--
