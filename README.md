@@ -2,7 +2,7 @@
 
 
 
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=200&section=header&text=안녕하세요&fontSize=45" />
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=200&section=header&text=안녕하세요&fontSize=45&animation=fadeIn" />
 
 ### 안녕하세요 이준영입니다 🙌
 <!--
