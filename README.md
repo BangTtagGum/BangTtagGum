@@ -7,7 +7,8 @@
 <center>
 
 
-### 안녕하세요 이준영입니다 🙌
+<p><strong>안녕하세요 이준영입니다 </strong>🙌</p>
+</center>
 
 <br></br>
 
@@ -36,7 +37,7 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
 
 
-</center>
+
 <!--
 **BangTtagGum/BangTtagGum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
