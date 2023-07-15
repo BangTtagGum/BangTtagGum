@@ -20,6 +20,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+  <img src="https://img.shields.io/badge/cplusplus-00599c?style=for-the-badge&logo=cplusplus&logoColor=white">
 </p>
 
 <br></br>
