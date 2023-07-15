@@ -2,9 +2,9 @@
 
 
 
-<div style="text-align:center">
-  <p>안녕하세요 이준영입니다🙌</p>
-</div>
+
+  <p align="center">안녕하세요 이준영입니다🙌</p>
+
 
 <!--
 
