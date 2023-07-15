@@ -4,11 +4,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=0:3AA6B9,40:FFD0D0,60:FF9EAA,100:C1ECE4&height=200&section=header&text=Welcome&fontSize=50&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=이준영의%20GitHub%20Profile&descAlign=55&descSize=15&descAlignY=50" />
 
-<center>
 
 
-<p><strong>안녕하세요 이준영입니다 </strong>🙌</p>
-</center>
+<div style="text-align:center">
+  <p><strong>안녕하세요 이준영입니다 </strong>🙌</p>
+</div>
+
 
 <br></br>
 
