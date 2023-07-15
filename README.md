@@ -4,6 +4,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=0:3AA6B9,40:FFD0D0,60:FF9EAA,100:C1ECE4&height=200&section=header&text=Welcome&fontSize=50&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=이준영의%20GitHub%20Profile&descAlign=55&descSize=15&descAlignY=50" />
 
+<center>
+
+
 ### 안녕하세요 이준영입니다 🙌
 
 <br></br>
@@ -33,7 +36,7 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
 
 
-
+</center>
 <!--
 **BangTtagGum/BangTtagGum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
