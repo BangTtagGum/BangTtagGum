@@ -46,6 +46,7 @@
 
 
 
+![BangTtagGum's github stats](https://github-readme-stats.vercel.app/api?username=BangTtagGum&show_icons=true)
 
 
 
