@@ -67,6 +67,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center">
+
 ![BangTtagGum's github stats](https://github-readme-stats.vercel.app/api?username=BangTtagGum&show_icons=true)
-</p>
+
