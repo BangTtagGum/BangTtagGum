@@ -46,6 +46,11 @@
 </p>
 
 
+### 🏆Ranking
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rmswjdtn)](https://solved.ac/dlzlqlzl)
+
+
 ![BangTtagGum's github stats](https://github-readme-stats.vercel.app/api?username=BangTtagGum&show_icons=true)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlzlqlzl)](https://solved.ac/dlzlqlzl/)
 
