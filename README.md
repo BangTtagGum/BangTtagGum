@@ -8,10 +8,8 @@
   <p align="center"><strong>안녕하세요 이준영입니다 🙌</strong></p>
 
 <br>
-
-<p align="center"> 
 ### ✨Context
-  
+<p align="center"> 
 <a href="https://velog.io/@dlzlqlzl"> <img src="https://img.shields.io/badge/Blog-3DDC84??style=flat-square&logo=Velog&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/lionalmessi@naver.com-EA4335??style=flat-square&logo=Mail.Ru&logoColor=white"/>
 </p>
