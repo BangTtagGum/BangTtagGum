@@ -53,12 +53,7 @@
 
 </div>
 
-
-
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlzlqlzl)](https://solved.ac/dlzlqlzl)
-
+[![Junyoung’s github stats](https://github-readme-stats.vercel.app/api?username=BangTtagGum&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/BangTtagGum/github-readme-stats)
 
 
 
