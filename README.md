@@ -5,11 +5,13 @@
 
 
 
-  <p align="center"><strong>안녕하세요 이준영입니다 🙌</strong></p>
+<p align="center"><strong>안녕하세요 이준영입니다 🙌</strong></p>
 
 <br>
 
+
 ### ✨Context
+
 
 <p align="center"> 
 <a href="https://velog.io/@dlzlqlzl"> <img src="https://img.shields.io/badge/Blog-3DDC84??style=flat-square&logo=Velog&logoColor=white"/></a>
@@ -47,9 +49,6 @@
 </p>
 
 
-
-
-![BangTtagGum's github stats](https://github-readme-stats.vercel.app/api?username=BangTtagGum&show_icons=true)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlzlqlzl)](https://solved.ac/dlzlqlzl/)
 
 
