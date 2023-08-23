@@ -7,10 +7,15 @@
 
   <p align="center"><strong>안녕하세요 이준영입니다 🙌</strong></p>
 
+<br>
 
+<p align="center"> 
+### ✨Context
+<a href="https://velog.io/@dlzlqlzl"> <img src="https://img.shields.io/badge/Blog-3DDC84??style=flat-square&logo=Velog&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/lionalmessi@naver.com-EA4335??style=flat-square&logo=Mail.Ru&logoColor=white"/>
+</p>
 
-
-<br></br>
+<br><br>
 
 <p align="center"> ✂️ Tech Stack ✂️ </p>
 
@@ -28,11 +33,6 @@
 </p>
 
 <br></br>
-<p align="center">🔥 used at least once </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"> 
-</p>
  
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> 
@@ -51,12 +51,13 @@
 ![BangTtagGum's github stats](https://github-readme-stats.vercel.app/api?username=BangTtagGum&show_icons=true)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlzlqlzl)](https://solved.ac/dlzlqlzl/)
 
-</div>
+
+### ⚡️ Github Status
 
 [![Junyoung’s github stats](https://github-readme-stats.vercel.app/api?username=BangTtagGum&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/BangTtagGum/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BangTtagGum&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=jupyter%20notebook)](https://github.com/BangTtagGum/github-readme-stats)
 
-
-
+</div>
 <!--
 **BangTtagGum/BangTtagGum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
