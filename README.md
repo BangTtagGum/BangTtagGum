@@ -50,8 +50,14 @@
 </p>
 -->
 
+<br>
+
+### 💯 BOJ Rank
+
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlzlqlzl)](https://solved.ac/dlzlqlzl/)
 
+<br>
 
 ### ⚡️ Github Status
 
