@@ -5,7 +5,7 @@
 
 
 
-  <p align="left"><strong>안녕하세요 이준영입니다 🙌</strong></p>
+  <p align="center"><strong>안녕하세요 이준영입니다 🙌</strong></p>
 
 
 
