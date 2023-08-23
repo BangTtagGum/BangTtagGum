@@ -55,9 +55,9 @@
 
 
 
-### 🏆Ranking
+
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rmswjdtn)](https://solved.ac/dlzlqlzl)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlzlqlzl)](https://solved.ac/dlzlqlzl)
 
 
 
