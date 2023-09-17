@@ -82,7 +82,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...Sssssssssss
 - 📫 How to reach me: ...s
-- 😄 Pronouns: ... ssss sds
+- 😄 Pronouns: ... ssss sdsss
 - ⚡ Fun fact: ...
 -->
 
