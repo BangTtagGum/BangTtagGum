@@ -9,7 +9,7 @@
  </strong></p>
  
 <p align="center"><strong>
- 어제보다 늘 성장하는 개발자 이준영입니다 🙌</strong></p>
+ 어제보다 더 성장하는 개발자 이준영입니다 🙌</strong></p>
 
 <br>
 
