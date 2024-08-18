@@ -59,21 +59,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BangTtagGum&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=jupyter%20notebook)](https://github.com/BangTtagGum/github-readme-stats)
 
-</div>
-<!--
-**BangTtagGum/BangTtagGum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Spring
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...s
-- 💬 Ask me about ... 
-- 📫 How to reach me: ...ssss
-- 😄 Pronouns: ... ssss sdsss
-- ⚡ Fun fact: ...
--->
+</div> 
 
